@@ -30,7 +30,7 @@
   <a href="https://media.botharness.ai/pv/botharness-town-v19-1080p-lite-zh.mp4"><img src="docs/assets/readme/v2/zh/promo-video-v16.jpg" width="800" alt="DeepSeekBot 宣传片（3 分钟）：点击播放" /></a>
 </p>
 
-DeepSeekBot（简称 **DSB**，是 DeepSeekBot 的缩写，才不是“大啥比”，哼）是 BotHarness 开发的 MIT 开源 GrokBot 平替，作为插件运行在 [DeepSeek Harness（DSH）](https://github.com/deepseek-ai/deepseek-harness)里。你可以创建几个分别负责研究、写作或写代码的 Bot，像和同事一样私聊、拉群、派活；它们记得你，会按时做事，还能在 Slack、Discord、飞书 / Lark、QQ 和微信里以自己的身份回你消息。
+DeepSeekBot（简称 **DSB**，是 DeepSeekBot 的缩写，才不是“大啥比”，哼，更不是“大烧杯”，哼哼）是 BotHarness 开发的 MIT 开源 GrokBot 平替，作为插件运行在 [DeepSeek Harness（DSH）](https://github.com/deepseek-ai/deepseek-harness)里。你可以创建几个分别负责研究、写作或写代码的 Bot，像和同事一样私聊、拉群、派活；它们记得你，会按时做事，还能在 Slack、Discord、飞书 / Lark、QQ 和微信里以自己的身份回你消息。
 
 模型用你在 DSH 里配置的服务商和额度；Bot 需要在后台持续工作时，运行 DSH 的电脑要保持在线。它和名字很像的 DS Bot（npm `ds-bot`）是两个独立项目，区别见[下文](#deepseek-bot-projects)。
 
